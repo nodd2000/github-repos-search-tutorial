@@ -1,12 +1,12 @@
 {
-  "name": "github-repos-search",
+  "name": "github-repos-search-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/myogeshchavan97/github-repos-search",
+  "homepage": "https://github.com/nodd2000/github-repos-search-tutorial",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myogeshchavan97/github-repos-search.git"
+    "url": "git+https://github.com/nodd2000/github-repos-search-tutorial.git"
   },
   "dependencies": {
     "axios": "^0.20.0"
@@ -22,6 +22,6 @@
     "sort",
     "stars"
   ],
-  "author": "Yogesh Chavan <myogeshchavan97@gmail.com>",
+  "author": "Viktor Maksimov <m8v3@ya.ru>",
   "license": "ISC"
 }
